@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour</string>
+
+    <!-- categories names] -->
+    <string name="cat_Castles">Castles</string>
+
+    <string name="cat_bars">Bars</string>
+
+    <string name="cat_Restaurants">Restaurants</string>
+
+    <string name="cat_Museums">Museums</string>
+
+    <!-- Bar contact list -->
+    <string name="bar_contact_one">1st Bar contact</string>
+
+    <string name="bar_contact_two">2nd Bar contact</string>
+
+    <string name="bar_contact_three">3rd Bar contact</string>
+
+    <string name="bar_contact_four">4th Bar contact</string>
+
+    <string name="bar_contact_five">5th Bar contact</string>
+
+    <string name="bar_contact_six">6th Bar contact</string>
+
+    <string name="bar_contact_seven">7th Bar contact</string>
+
+    <string name="bar_contact_eight">8th Bar contact</string>
+
+    <string name="bar_contact_nine">9th Bar contact</string>
+
+    <string name="bar_contact_ten">10th Bar contact</string>
+
+    <!-- Castles contact list -->
+
+    <string name="castle_contact_one">1st Castle contact</string>
+
+    <string name="castle_contact_two">2nd Castle contact</string>
+
+    <string name="castle_contact_three">3rd Castle contact</string>
+
+    <string name="castle_contact_four">4th Castle contact</string>
+
+    <string name="castle_contact_five">5th Castle contact</string>
+
+    <string name="castle_contact_six">6th Castle contact</string>
+
+    <string name="castle_contact_seven">7th Castle contac</string>
+
+    <string name="castle_contact_eight">8th Castle contact</string>
+
+    <string name="castle_contact_nine">9th Castle contact</string>
+
+    <string name="castle_contact_ten">10th Castle contact</string>
+
+    <!-- Restaurants contact list -->
+
+    <string name="restaurant_contact_one">1st Restaurant contact</string>
+
+    <string name="restaurant_contact_two">2nd Restaurant contact</string>
+
+    <string name="restaurant_contact_three">3rd Restaurant contact</string>
+
+    <string name="restaurant_contact_four">4th Restaurant contact</string>
+
+    <string name="restaurant_contact_five">5th Restaurant contact</string>
+
+    <string name="restaurant_contact_six">6th Restaurant contact</string>
+
+    <string name="restaurant_contact_seven">7th Restaurant contact</string>
+
+    <string name="restaurant_contact_eight">8th Restaurant contact</string>
+
+    <string name="restaurant_contact_nine">9th Restaurant contact</string>
+
+    <string name="restaurant_contact_ten">10th Restaurant contact</string>
+
+    <!-- Museums contact list -->
+
+    <string name="museums_contact_one">1st Museum contact</string>
+
+    <string name="museums_contact_two">2nd Museum contact</string>
+
+    <string name="museums_contact_three">3rd Museum contact</string>
+
+    <string name="museums_contact_four">4th Museum contact</string>
+
+    <string name="museums_contact_five">5th Museum contact</string>
+
+    <string name="museums_contact_six">6th Museum contact</string>
+
+    <string name="museums_contact_seven">7th Museum contac</string>
+
+    <string name="museums_contact_eight">8th Museum contact</string>
+
+    <string name="museums_contact_nine">9th Museum contact</string>
+
+    <string name="museums_contact_ten">10th Museum contact</string>
+
+    <!-- bars names -->
+
+    <string name="fancy_bar_one">Bar One</string>
+
+    <string name="fancy_bar_two">Bar Two</string>
+
+    <string name="fancy_bar_three">Bar Three</string>
+
+    <string name="fancy_bar_four">Bar Four</string>
+
+    <string name="fancy_bar_five">Bar Five</string>
+
+    <string name="fancy_bar_six">Bar Six</string>
+
+    <string name="fancy_bar_seven">Bar Seven</string>
+
+    <string name="fancy_bar_eight">Bar Eight</string>
+
+    <string name="fancy_bar_nine">Bar Nine</string>
+
+    <string name="fancy_bar_ten">Bar Ten</string>
+
+    <!-- musems list -->
+
+    <string name="museum_one">1st Museum</string>
+
+    <string name="museum_two">2nd Museum</string>
+
+    <string name="museum_three">3rd Museum</string>
+
+    <string name="museum_four">4th Museum</string>
+
+    <string name="museum_five">5th Museum</string>
+
+    <string name="museum_six">6th Museum</string>
+
+    <string name="museum_seven">7th Museum</string>
+
+    <string name="museum_eight">8th Museum</string>
+
+    <string name="museum_nine">9th Museum</string>
+
+    <string name="museum_ten">10th Museum</string>
+
+    <!-- Restaurants names list -->
+
+    <string name="Restaurant_One">1st Restaurant</string>
+
+    <string name="Restaurant_Two">2nd Restaurant</string>
+
+    <string name="Restaurant_Three">3rd Restaurant</string>
+
+    <string name="Restaurant_Four">4th Restaurant</string>
+
+    <string name="Restaurant_Five">5th Restaurant</string>
+
+    <string name="Restaurant_Six">6th Restaurant</string>
+
+    <string name="Restaurant_Seven">7th Restaurant</string>
+
+    <string name="Restaurant_Eight">8th Restaurant</string>
+
+    <string name="Restaurant_Nine">9th Restaurant</string>
+
+    <string name="Restaurant_Ten">10th Restaurant</string>
+
+    <!-- Castles list -->
+
+    <string name="big_castle_one">Big Castle One</string>
+
+    <string name="big_castle_two">Big Castle Two</string>
+
+    <string name="big_castle_three">Big Castle Three</string>
+
+    <string name="big_castle_four">Big Castle four</string>
+
+    <string name="big_castle_five">Big Castle five</string>
+
+    <string name="big_castle_six">Big Castle six</string>
+
+    <string name="big_castle_seven">Big Castle seven</string>
+
+    <string name="big_castle_eight">Big Castle eight</string>
+
+    <string name="big_castle_nine">Big Castle nine</string>
+
+    <string name="big_castle_ten">Big Castle Ten</string>
+
+</resources>
